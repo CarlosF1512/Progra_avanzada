@@ -1,1 +1,1 @@
-# Pŕáctica 1 - Programación Avanzada MTIIA
+#Práctica 2 - Programación Avanzada MTIIA
